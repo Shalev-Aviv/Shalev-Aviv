@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shalev-Aviv
-- 👀 I’m interested in stocks, 3D, UX, UI, finance, programming, graphic design, video editing
-- 🌱 I’m currently learning C, JAVA, C#, Python, Assembly
+- 👀 I’m interested in Programming, Stocks, 3D-Design, UX, UI, Finance, Graphic Design, Video Editing
+- 🌱 I’m currently learning C#, C, JAVA, Python, Assembly
 - 💞️ Feel free to reach me about any subject ;)
 - 📫 How to reach me: shalevaviv2005@gmail.com
 - 😄 Pronouns: Hi/Him
