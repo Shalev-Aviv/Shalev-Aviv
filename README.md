@@ -22,7 +22,7 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/shalev3)
 
 # 📊 GitHub Stats:
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api?username=Shalev-Aviv&theme=holi&hide_border=false&include_all_commits=false&count_private=false" height="195"></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalev-Aviv&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api?username=Shalev-Aviv&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" height="195"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalev-Aviv&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195"></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
