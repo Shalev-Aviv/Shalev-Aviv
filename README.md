@@ -1,4 +1,6 @@
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![My Skills](https://skillicons.dev/icons?i=cs,c,java,html,css,mysql,react,net,nodejs,npm,git,github,ps,pr,blender,figma&perline=20)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+<!--[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -15,7 +17,7 @@
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)-->
 
 # 💫 About Me:
 🔭 I’m currently working on **TRAFFI**<br>🌱 I’m currently learning **React** & **Spring Boot**<br>
