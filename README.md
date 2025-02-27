@@ -20,7 +20,7 @@
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)-->
 
 # 💫 About Me:
-🔭 I’m currently working on [TRAFFI](https://www.youtube.com/watch?v=dQw4w9WgXcQ)<br>🌱 I’m currently learning **React** & **Spring Boot**<br>
+🔭 I’m currently working on [TRAFFI](https://github.com/Shalev-Aviv/TRAFFI)<br>🌱 I’m currently learning **React** & **Spring Boot**<br>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/shalev3)
 
