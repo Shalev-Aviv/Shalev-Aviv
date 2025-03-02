@@ -1,4 +1,5 @@
-[![My Skills](https://skillicons.dev/icons?i=cs,c,java,html,css,mysql,react,net,npm,git,github,ps,pr,blender,figma&perline=20)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Light Theme](https://skillicons.dev/icons?i=cs,c,java,html,css,mysql,react,net,npm,git,github,ps,pr,blender,figma&perline=20&theme=light#gh-light-mode-only)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Dark Theme](https://skillicons.dev/icons?i=cs,c,java,html,css,mysql,react,net,npm,git,github,ps,pr,blender,figma&perline=20#gh-dark-mode-only)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <!--[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
