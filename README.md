@@ -1,5 +1,4 @@
-[![Light Theme](https://skillicons.dev/icons?i=cs,c,java,html,css,mysql,react,net,npm,git,github,ps,pr,blender,figma&perline=20&theme=light#gh-light-mode-only)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![Dark Theme](https://skillicons.dev/icons?i=cs,c,java,html,css,mysql,react,net,npm,git,github,ps,pr,blender,figma&perline=20#gh-dark-mode-only)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![](https://skillicons.dev/icons?i=cs,c,java,html,css,mysql,react,net,npm,git,github,ps,pr,blender,figma&perline=20#gh-dark-mode-only)
 
 <!--[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -27,8 +26,8 @@
 
 
 # 📊 GitHub Stats:
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api?username=Shalev-Aviv&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" height="195"></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalev-Aviv&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api?username=Shalev-Aviv&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" height="195"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalev-Aviv&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195"></a>
 
 <!-- Used these sites & repos to decorate the README -->
 <!-- https://gprm.itsvg.in -->
