@@ -1,4 +1,4 @@
-![](https://skillicons.dev/icons?i=c,cs,java,html,css,svg,react,spring,threejs,npm,git,vscode,visualstudio,github,ps,pr,blender,figma,obsidian&perline=20#gh-dark-mode-only)
+![](https://skillicons.dev/icons?i=c,cs,java,html,css,tailwind,svg,react,spring,threejs,npm,git,vscode,visualstudio,github,ps,pr,blender,figma,obsidian&perline=20#gh-dark-mode-only)
 
 <!--
 Separated by subjects<br>
@@ -10,7 +10,7 @@ Separated by subjects<br>
 
 # 💫 About Me:
 🔭 I’m currently working on [TRAFFI](https://github.com/Shalev-Aviv/TRAFFI)<br>
-🌱 I’m currently learning **Tailwind** & **TypeScript & Next.js**<br>
+🌱 I’m currently learning **PostgreSQL** & **TypeScript & Next.js**<br>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/shalev3)
 
