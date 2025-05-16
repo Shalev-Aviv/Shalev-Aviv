@@ -1,12 +1,14 @@
-![](https://skillicons.dev/icons?i=c,cs,java,html,css,tailwind,threejs,react,spring,npm,git,svg,vscode,visualstudio,github,blender,figma,obsidian,pr,ps&perline=20#gh-dark-mode-only)
+![](https://skillicons.dev/icons?i=c,cs,java,html,css,mysql,tailwind,threejs,react,spring,npm,git,svg,vscode,visualstudio,github,blender,figma,obsidian,pr,ps&perline=20#gh-dark-mode-only)
 
 
 <!--
-![](https://skillicons.dev/icons?i=c,cs,java,html,css,&perline=20#gh-dark-mode-only)<br>
-![](https://skillicons.dev/icons?i=react,spring&perline=20#gh-dark-mode-only)<br>
-![](https://skillicons.dev/icons?i=tailwind,threejs&perline=20#gh-dark-mode-only)<br>
-![](https://skillicons.dev/icons?i=npm,git,svg&perline=20#gh-dark-mode-only)<br>
-![](https://skillicons.dev/icons?i=vscode,visualstudio,github,ps,pr,blender,figma,obsidian&perline=20#gh-dark-mode-only)
+<p align=center>
+  <img src="https://skillicons.dev/icons?i=c,cs,java,html,css,js,ts,mysql&perline=20#gh-dark-mode-only" alt="Languages"></img><br>
+  <img src="https://skillicons.dev/icons?i=next,react,spring&perline=20#gh-dark-mode-only" alt="Frameworks"></img><br>
+  <img src="https://skillicons.dev/icons?i=tailwind,threejs&perline=20#gh-dark-mode-only" alt="Libraries"></img><br>
+  <img src="https://skillicons.dev/icons?i=npm,git,svg,prisma&perline=20#gh-dark-mode-only" alt="Tools"></img><br>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postgres,github,ps,pr,blender,figma,obsidian,discord,windows&perline=20#gh-dark-mode-only" alt="Softwares"></img><br>
+</p>
 -->
 
 
