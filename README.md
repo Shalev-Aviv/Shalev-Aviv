@@ -19,4 +19,4 @@
 
 <!-- Used these sites & repos to decorate the README -->
 <!-- https://gprm.itsvg.in -->
-<!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+<!-- https://github.com/syvixor/skills-icons -->
