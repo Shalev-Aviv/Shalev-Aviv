@@ -1,14 +1,14 @@
-![](https://skills.syvixor.com/api/icons?i=c,csharp,java,html,css,mysql,tailwind,threejs,react,spring,npm,git,svg,vscode,visualstudio,github,blender,figma,obsidian,premierepro,photoshop)
+![](https://skills.syvixor.com/api/icons?i=c,csharp,java,mysql,html,css,svg,threejs,react,tailwind,spring,npm,git,leetcode,github,vscode,blender,figma,obsidian,premierepro,photoshop)
+
 <!--
-<p align=center>
-  ![](https://skills.syvixor.com/api/icons?i=c,csharp,java,html,css,mysql,tailwind,threejs,react,spring,npm,git,svg,vscode,visualstudio,github,blender,figma,obsidian,premierepro,photoshop,ts,js,graphql.docker,prisma,postgresql,canva,apollo,nextjs)
-</p>
+![](https://skills.syvixor.com/api/icons?i=c,csharp,java,js,ts,mysql,html,css,svg,threejs,react,nextjs,spring,tailwind,graphql,docker,prisma,npm,git,github,vscode,leetcode,postgresql,blender,figma,obsidian,premierepro,photoshop,canva)
 -->
+
 
 
 # 💫 About Me:
 🔭 I’m currently working on **WorldView**<br>
-🌱 I’m currently learning **TypeScript & Next.js**<br>
+🌱 I’m currently learning **JavaScript & Next.js**<br>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/shalev3)
 
