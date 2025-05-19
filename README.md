@@ -5,7 +5,7 @@
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on **WorldView**<br>
+🔭 I’m currently working on **[WorldView](https://github.com/Shalev-Aviv/WorldView)**<br>
 🌱 I’m currently learning **JavaScript & Next.js**<br>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/shalev3)
