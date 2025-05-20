@@ -1,7 +1,7 @@
-![](https://skills.syvixor.com/api/icons?i=c,csharp,java,mysql,html,css,svg,threejs,react,tailwind,spring,npm,git,leetcode,github,vscode,blender,figma,obsidian,premierepro,photoshop)
+![](https://skills.syvixor.com/api/icons?i=c,csharp,java,mysql,html,css,svg,md,threejs,react,tailwind,spring,npm,git,ws,leetcode,github,vscode,blender,figma,obsidian,premierepro,photoshop)
 
 <!--
-![](https://skills.syvixor.com/api/icons?i=c,csharp,java,js,ts,mysql,html,css,svg,threejs,react,nextjs,spring,tailwind,graphql,docker,prisma,npm,git,github,vscode,leetcode,postgresql,blender,figma,obsidian,premierepro,photoshop,canva)
+![](https://skills.syvixor.com/api/icons?i=c,csharp,java,js,ts,mysql,html,css,svg,md,threejs,react,nextjs,spring,tailwind,graphql,docker,prisma,npm,git,ws,github,vscode,leetcode,postgresql,blender,figma,obsidian,premierepro,photoshop,canva)
 -->
 
 # 💫 About Me:
