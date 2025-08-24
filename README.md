@@ -1,4 +1,4 @@
-![](https://skills.syvixor.com/api/icons?i=c,csharp,java,js,ts,mysql,html,css,svg,md,threejs,react,tailwind,spring,npm,git,ws,postgresql,leetcode,github,vscode,blender,figma,obsidian,premierepro,photoshop)
+![](https://skills.syvixor.com/api/icons?i=c,csharp,java,js,ts,mysql,html,css,svg,md,threejs,react,tailwind,spring,npm,git,ws,regex,postgresql,leetcode,github,vscode,blender,figma,obsidian,premierepro,photoshop)
 
 <!--
 ![](https://skills.syvixor.com/api/icons?i=ts,supabase,nextjs,graphql,docker,prisma)
