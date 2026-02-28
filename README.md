@@ -5,7 +5,7 @@
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on **[Taskit](https://github.com/Shalev-Aviv/Taskit)**<br>
+🔭 I’m currently working on **Vantage Point**<br>
 🌱 I’m currently learning **...**<br>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/shalev3)
